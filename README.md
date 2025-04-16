@@ -6,7 +6,7 @@
 ### 📝 Publications 
 - **“Transferring Prior Thermal Knowledge for Snowy Urban Scene Semantic Segmentation”**  
   *Xiaodong Guo, Tong Liu, et al.*, *IEEE Transactions on Intelligent Transportation Systems*, 2025  
-  **Paper**: [Paper](10.1109/TITS.2025.3555617)
+  **Paper**: [Paper](https://doi.org/10.1109/TITS.2025.3555617)
   **Code**: [GitHub](https://github.com/xiaodonguo/SUS_dataset)  
 - **“Multi-level Attention Imitation Knowledge Distillation for RGB-Thermal Transmission Line Detection”**  
   *Xiaodong Guo, Wujie Zhou, Tong Liu*, *Expert Systems with Applications*, 2025  
