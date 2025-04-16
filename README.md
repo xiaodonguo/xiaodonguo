@@ -16,5 +16,5 @@
   **Paper**: [Paper](https://doi.org/10.1016/j.knosys.2024.111588)
   **Code**: [GitHub](https://github.com/xiaodonguo/CLNet)
 ### 📅 Research Pipeline
-- One paper is accepted by *IEEE T-ITS* (2025-03-23)
-- Two paper are submitted to *IROS* 2025 (2025-03-02)
+- 2025-03-23 One paper is accepted by *IEEE T-ITS* 🎉
+- 2025-03-02 Two paper are submitted to *IROS* 2025 :pray:
