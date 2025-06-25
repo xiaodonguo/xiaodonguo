@@ -4,6 +4,8 @@
 - :raising_hand: My research focuses on semantic segmentation, knowledge distillation, multi-modal fusion, etc.
 - 📫 How to reach me: 3120245534@bit.edu.cn
 ### 📝 Publications
+- **Layer Decomposition and Morphological Reconstruction for Task-Oriented Infrared Image Enhancement**  
+  *S. Chai, X. Guo, T. Liu*, *IROS*, 2025
 - **“Cross-modal State Space Modeling for Real-time RGB-thermal Wild Scene Semantic Segmentation”**  
   *X. Guo, Z. Lin, L. Hu, Z. Deng, T. Liu, and W. Zhou*, *IROS*, 2025  
   **Paper**: [Paper](https://arxiv.org/abs/2506.17869)
