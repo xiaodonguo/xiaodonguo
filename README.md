@@ -3,7 +3,11 @@
 - :school: I am currently pursuing a Ph.D. in the School of Automation at the Beijing Institute of Technology.
 - :raising_hand: My research focuses on semantic segmentation, knowledge distillation, multi-modal fusion, etc.
 - 📫 How to reach me: 3120245534@bit.edu.cn
-### 📝 Publications 
+### 📝 Publications
+- **“Cross-modal State Space Modeling for Real-time RGB-thermal Wild Scene Semantic Segmentation”**  
+  *Xiaodong Guo, Zi'ang Lin, Luwen Hu, Zhihong Deng, Tong Liu, and Wujie Zhou*, *IROS*, 2025  
+  **Paper**: [Paper](https://arxiv.org/abs/2506.17869)
+  **Code**: [GitHub](https://github.com/xiaodonguo/CMSSM)
 - **“Transferring Prior Thermal Knowledge for Snowy Urban Scene Semantic Segmentation”**  
   *Xiaodong Guo, Tong Liu, et al.*, *IEEE Transactions on Intelligent Transportation Systems*, 2025  
   **Paper**: [Paper](https://doi.org/10.1109/TITS.2025.3555617)
