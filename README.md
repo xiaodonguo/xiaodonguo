@@ -4,9 +4,7 @@
 - :raising_hand: My research focuses on semantic segmentation, knowledge distillation, multi-modal fusion, etc.
 - 📫 How to reach me: 3120245534@bit.edu.cn
 ### 📝 Publications
-- **"Layer Decomposition and Morphological Reconstruction for Task-Oriented Infrared Image Enhancement"**  
-  *S. Chai, **X. Guo**, T. Liu*, *IROS*, 2025
-  
+
 - **“Cross-modal State Space Modeling for Real-time RGB-thermal Wild Scene Semantic Segmentation”**  
   ***X. Guo**, Z. Lin, L. Hu, Z. Deng, T. Liu, and W. Zhou*, *IROS*, 2025  
   **Paper**: [Paper](https://arxiv.org/abs/2506.17869)
@@ -25,6 +23,13 @@
   ***X. Guo**, W. Zhou, T. Liu*, *Knowledge-Based Systems*, 2024  
   **Paper**: [Paper](https://doi.org/10.1016/j.knosys.2024.111588)
   **Code**: [GitHub](https://github.com/xiaodonguo/CLNet)
+
+- **"Layer Decomposition and Morphological Reconstruction for Task-Oriented Infrared Image Enhancement"**  
+  *S. Chai, **X. Guo**, T. Liu*, *IROS*, 2025
+
+### 🎯 Research Project
+- 2025-2027 中国科协青年科技人才培育工程博士生专项计划
+
 ### 📅 Research Pipeline
 - 2025-06-16 Two papers are accepted by *IROS* 2025 🎉
 - 2025-03-23 One paper is accepted by *IEEE T-ITS* 🎉
