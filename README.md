@@ -2,7 +2,7 @@
 ### About Me
 - :school: I am currently pursuing a Ph.D. in the School of Automation at the Beijing Institute of Technology.
 - :raising_hand: My research focuses on semantic segmentation, knowledge distillation, multi-modal fusion, etc.
-- 📫 How to reach me: 3120245534@bit.edu.cn
+- 📫 How to reach me: guoxd@bit.edu.cn
 ### 📝 Publications
 
 - **“Cross-modal State Space Modeling for Real-time RGB-thermal Wild Scene Semantic Segmentation”**  
