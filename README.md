@@ -5,6 +5,11 @@
 - 📫 How to reach me: guoxd@bit.edu.cn
 ### 📝 Publications
 
+- **“TUNI: Real-time RGB-T Semantic Segmentation with Unified Multi-Modal Feature Extraction and Cross-Modal Feature Fusion”**  
+  ***X. Guo**, T. Liu, Y. Li, Z. Lin, Z. Deng, *IROS*, 2025  
+  **Paper**: [Paper](https://arxiv.org/abs/2509.10005)
+  **Code**: [GitHub](https://github.com/xiaodonguo/TUNI)
+
 - **“Cross-modal State Space Modeling for Real-time RGB-thermal Wild Scene Semantic Segmentation”**  
   ***X. Guo**, Z. Lin, L. Hu, Z. Deng, T. Liu, and W. Zhou*, *IROS*, 2025  
   **Paper**: [Paper](https://arxiv.org/abs/2506.17869)
@@ -31,6 +36,7 @@
 - 2025-2027 中国科协青年科技人才培育工程博士生专项计划
 
 ### 📅 Research Pipeline
+- 2026-1-31 One paper is accepted by *ICRA* 2026 🎉
 - 2025-06-16 Two papers are accepted by *IROS* 2025 🎉
 - 2025-03-23 One paper is accepted by *IEEE T-ITS* 🎉
 - 2025-03-02 Two papers are submitted to *IROS* 2025 :fire:
