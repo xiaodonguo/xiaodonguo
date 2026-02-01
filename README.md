@@ -6,7 +6,7 @@
 ### 📝 Publications
 
 - **“TUNI: Real-time RGB-T Semantic Segmentation with Unified Multi-Modal Feature Extraction and Cross-Modal Feature Fusion”**  
-  ***X. Guo**, T. Liu, Y. Li, Z. Lin, Z. Deng, *IROS*, 2025  
+  ***X. Guo**, T. Liu, Y. Li, Z. Lin, Z. Deng*, *ICRA*, 2026  
   **Paper**: [Paper](https://arxiv.org/abs/2509.10005)
   **Code**: [GitHub](https://github.com/xiaodonguo/TUNI)
 
