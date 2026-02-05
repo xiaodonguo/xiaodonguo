@@ -12,7 +12,7 @@
 
 - **“Cross-modal State Space Modeling for Real-time RGB-thermal Wild Scene Semantic Segmentation”**  
   ***X. Guo**, Z. Lin, L. Hu, Z. Deng, T. Liu, and W. Zhou*, *IROS*, 2025  
-  **Paper**: [Paper](https://arxiv.org/abs/2506.17869)
+  **Paper**: [Paper](https://ieeexplore.ieee.org/document/11247008)
   **Code**: [GitHub](https://github.com/xiaodonguo/CMSSM)
   
 - **“Transferring Prior Thermal Knowledge for Snowy Urban Scene Semantic Segmentation”**  
@@ -31,6 +31,7 @@
 
 - **"Layer Decomposition and Morphological Reconstruction for Task-Oriented Infrared Image Enhancement"**  
   *S. Chai, **X. Guo**, T. Liu*, *IROS*, 2025
+  **Paper**: [Paper](https://ieeexplore.ieee.org/document/11245829)
 
 ### 🎯 Research Project
 - 2025-2027 中国科协青年科技人才培育工程博士生专项计划
