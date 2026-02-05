@@ -30,7 +30,7 @@
   **Code**: [GitHub](https://github.com/xiaodonguo/CLNet)
 
 - **"Layer Decomposition and Morphological Reconstruction for Task-Oriented Infrared Image Enhancement"**  
-  *S. Chai, **X. Guo**, T. Liu*, *IROS*, 2025
+  *S. Chai, **X. Guo**, T. Liu*, *IROS*, 2025  
   **Paper**: [Paper](https://ieeexplore.ieee.org/document/11245829)
 
 ### 🎯 Research Project
