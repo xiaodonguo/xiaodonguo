@@ -37,7 +37,7 @@
 - 2025-2027 中国科协青年科技人才培育工程博士生专项计划
 
 ### 📅 Research Pipeline
-- 2026-6-1 One paper is accepted by *IEEE* TCSVT 🎉
+- 2026-6-1 One paper is accepted by *IEEE T-CSVT* 🎉
 - 2026-1-31 One paper is accepted by *ICRA* 2026 🎉
 - 2025-06-16 Two papers are accepted by *IROS* 2025 🎉
 - 2025-03-23 One paper is accepted by *IEEE T-ITS* 🎉
