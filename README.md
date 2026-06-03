@@ -5,6 +5,10 @@
 - 📫 How to reach me: guoxd@bit.edu.cn
 ### 📝 Publications
 
+- **“TUNI: Unifying Pre-training and Fine-tuning with Modality-Aware Mutual Learning and Rectification for RGB-T Semantic Segmentation”**  
+  ***X. Guo**, X. Guo, T. Liu, Z. Deng, Y. Peng, X. Li, W. Zhou*, *IEEE T-CSVT*, 2026  
+  **Code**: [GitHub](https://github.com/xiaodonguo/TUNI-v2)
+
 - **“TUNI: Real-time RGB-T Semantic Segmentation with Unified Multi-Modal Feature Extraction and Cross-Modal Feature Fusion”**  
   ***X. Guo**, T. Liu, Y. Li, Z. Lin, Z. Deng*, *ICRA*, 2026  
   **Paper**: [Paper](https://arxiv.org/abs/2509.10005)
