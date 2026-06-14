@@ -7,7 +7,7 @@
 
 - **“TUNI: Unifying Pre-training and Fine-tuning with Modality-Aware Mutual Learning and Rectification for RGB-T Semantic Segmentation”**  
   ***X. Guo**, X. Guo, T. Liu, Z. Deng, Y. Peng, X. Li, W. Zhou*, *IEEE Transactions on Circuits and Systems for Video Technology*, 2026  
-  **Paper**: [Paper](https://ieeexplore.ieee.org/document/11556483)  
+  **Paper**: [Paper](https://ieeexplore.ieee.org/document/11556483)
   **Code**: [GitHub](https://github.com/xiaodonguo/TUNI-v2)
 
 - **“TUNI: Real-time RGB-T Semantic Segmentation with Unified Multi-Modal Feature Extraction and Cross-Modal Feature Fusion”**  
