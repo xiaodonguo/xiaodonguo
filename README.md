@@ -5,6 +5,10 @@
 - 📫 How to reach me: guoxd@bit.edu.cn
 ### 📝 Publications
 
+- **“MonoTemp3D: Lightweight Short-Horizon Temporal Enhancement for Streaming Monocular 3D Car Detection”**  
+  *J. Li, T. Liu, **X. Guo\*** and Y. Li*, *IEEE Robotics and Automation Letters*, 2026  
+  **Paper**: [Paper](https://ieeexplore.ieee.org/document/11685329)
+
 - **“TUNI: Unifying Pre-training and Fine-tuning with Modality-Aware Mutual Learning and Rectification for RGB-T Semantic Segmentation”**  
   ***X. Guo**, X. Guo, T. Liu, Z. Deng, Y. Peng, X. Li, W. Zhou*, *IEEE Transactions on Circuits and Systems for Video Technology*, 2026  
   **Paper**: [Paper](https://ieeexplore.ieee.org/document/11556483)
@@ -33,7 +37,7 @@
   ***X. Guo**, W. Zhou, T. Liu*, *Knowledge-Based Systems*, 2024  
   **Paper**: [Paper](https://doi.org/10.1016/j.knosys.2024.111588)
   **Code**: [GitHub](https://github.com/xiaodonguo/CLNet)
-
+  
 - **"Layer Decomposition and Morphological Reconstruction for Task-Oriented Infrared Image Enhancement"**  
   *S. Chai, **X. Guo**, T. Liu*, *IROS*, 2025  
   **Paper**: [Paper](https://ieeexplore.ieee.org/document/11245829)
